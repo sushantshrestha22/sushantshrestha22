@@ -4,12 +4,9 @@
 - Java
 - Tanstack react-query<br><br>
 
-### 💻 Projects
-- [JobJourney]((https://github.com/Anish-lm10/JobJourney-7thsemproject.git)): A job portal with a resume builder and job tracking.<br><br>
 ### 📫 How to Reach Me
 - Email: newasushant.ns16@gmail.com
 Feel free to connect or check out my projects!<br>
-
 
 ## 🌐 Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tbxnewaking2418) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sushant.shrestha.566148) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sushant_juju) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Sushant_xtha22) 
