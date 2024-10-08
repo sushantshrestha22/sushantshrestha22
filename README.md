@@ -5,7 +5,7 @@
 - Tanstack react-query<br><br>
 
 ### 💻 Projects
-- [JobJourney](https://github.com/sushantshrestha22/jobjourney): A job portal with a resume builder and job tracking.<br><br>
+- [JobJourney]((https://github.com/Anish-lm10/JobJourney-7thsemproject.git)): A job portal with a resume builder and job tracking.<br><br>
 ### 📫 How to Reach Me
 - Email: newasushant.ns16@gmail.com
 Feel free to connect or check out my projects!<br>
