@@ -1,7 +1,7 @@
 ### Hi I,m Sushant
-### 🌱 Currently Learning
-- Advanced Next Techniques
-- Java/SpringBoot
+### 💻 Currently working as a Frontend Developer Intern at Hub IT Training & Solution<br>
+### 🚀 Always excited to learn, solve problems, and create impactful digital solutions<br>
+### 🌱 Learning backend development to expand my skills
 
 ### 📫 How to Reach Me
 - Email: newasushant.ns16@gmail.com
