@@ -1,13 +1,14 @@
 ### Hi I,m Sushant
 ### 🌱 Currently Learning
-- Advanced React Techniques
-- Java
-- Tanstack react-query<br><br>
+- Advanced Next Techniques
+- Java/SpringBoot
 
 ### 📫 How to Reach Me
 - Email: newasushant.ns16@gmail.com
 
 Feel free to connect or check out my projects!<br>
+
+A passionate Frontend Developer focused on building responsive and user-friendly web applications. I love crafting beautiful interfaces with React, Next.js, Tailwind CSS, and ShadCN, and I'm diving deeper into backend technologies like Java and Spring Boot to become a Fullstack Developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
